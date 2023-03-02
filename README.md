@@ -8,4 +8,4 @@ Then start the vite server by `npm run start`
 
 ## Screenshot
 
-![demo](demo.jpg)
+![demo](./demo.jpg)
